@@ -1,3 +1,4 @@
+// date 17/09/2025
 import java.util.Scanner;
 
 public class classattendance {
@@ -43,4 +44,5 @@ public class classattendance {
         double percentLow = (lowDays * 100.0) / days;
         System.out.println("Percentage of low attendance days: " + percentLow + "%");
     }
+
 }
