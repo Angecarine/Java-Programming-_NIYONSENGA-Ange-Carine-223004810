@@ -1,4 +1,4 @@
-//on 17/09/2025
+
 package Supermarkets.bills;
 import java.util.Scanner;
 
@@ -61,3 +61,4 @@ public class SupermarketBilling {
     }
 
 }
+
