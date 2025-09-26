@@ -12,7 +12,7 @@ public class studentgradesystem {
 		        int fails = 0;
 
 		        while (true) {
-		            System.out.print("Enter student marks (0–100) or -1 to stop: ");
+		            System.out.print("Enter student marks (0â€“100) or -1 to stop: ");
 		            int marks = sc.nextInt();
 
 		            // check for sentinel value
