@@ -1,4 +1,4 @@
-// date 17/09/2025
+
 import java.util.Scanner;
 
 public class classattendance {
@@ -46,3 +46,4 @@ public class classattendance {
     }
 
 }
+
