@@ -1,4 +1,4 @@
-# Java-Programming-_NIYONSENGA-Ange-Carine-223004810
+// Java-Programming-_NIYONSENGA-Ange-Carine-223004810_19/09/2025
 case study 1:
 package Supermarkets.bills;
 import java.util.Scanner;
